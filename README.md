@@ -1,5 +1,5 @@
 # System-Administration
-Documentation made for a university course on the topic of system administration.
+Documentation created for a university course on the topic of system administration.
 
 Topics covered:
 * Installing an operating system (manually resizing partitions etc.)
