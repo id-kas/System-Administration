@@ -1,5 +1,5 @@
 # System-Administration
-Documentation created for a university course on the topic of system administration.
+Documentation created for a practical university course on the topic of system administration.
 
 Topics covered:
 * Installing an operating system (manually resizing partitions etc.)
@@ -16,4 +16,4 @@ Topics covered:
 * Setting up a network monitoring service (Prometheus & Grafana)
 * Doing security scans (Nmap, OpenVAS, Rootkit Hunter)
 
-We worked in teams of two. The repository my partner and I used internally is also pinned on my profile. I created this one, which contains only the documentation, to provide a clean overview.
+We worked in teams of two. Each week of the semester, we got an assigment and had to research, implement and document the described service. The repository my partner and I used internally is also pinned on my profile. I created this repository, which contains only the documentation, to provide a clean overview.
