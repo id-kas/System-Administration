@@ -18,4 +18,4 @@ Topics covered:
 
 We worked in teams of two. Each week of the semester, we got an assigment and had to implement and document a solution. The course involved very little teaching, pretty much everything we did is based on our own research. 
 
-The repository my partner and I used internally is also pinned on my profile. I created this repository, which contains only the documentation, to provide a clean overview.
+The repository my partner and I used internally is also pinned on my profile (psa-2324). I created this repository, which contains only the documentation, to provide a clean overview.
