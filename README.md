@@ -1,7 +1,7 @@
 # System-Administration
 Documentation made for a university course on the topic of system administration.
 
-Topics we covered:
+Topics covered:
 * Installing an operating system (manually resizing partitions etc.)
 * Setting up a firewall (nftables)
 * Network Configuration
@@ -16,4 +16,4 @@ Topics we covered:
 * Setting up a network monitoring service (Prometheus & Grafana)
 * Doing security scans (Nmap, OpenVAS, Rootkit Hunter)
 
-We worked in Teams of 2. The repo my partner and is also pinned on my profile. I created this one, which contains only the documentation, to provide a clean overview.
+We worked in teams of two. The repository my partner and I used internally is also pinned on my profile. I created this one, which contains only the documentation, to provide a clean overview.
