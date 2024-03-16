@@ -3,6 +3,7 @@ Documentation made for a university course on the topic of system administration
 
 Topics we covered:
 * Installing an operating system (manually resizing partitions etc.)
+* Setting up a firewall (nftables)
 * Network Configuration
 * Setting up a DNS Server (Bind9)
 * Setting up a DHCP Server
