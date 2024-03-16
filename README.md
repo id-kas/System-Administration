@@ -15,3 +15,5 @@ Topics we covered:
 * Setting up a mail server (Postfix)
 * Setting up a network monitoring service (Prometheus & Grafana)
 * Doing security scans (Nmap, OpenVAS, Rootkit Hunter)
+
+We worked in Teams of 2. 
