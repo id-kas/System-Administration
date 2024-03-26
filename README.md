@@ -4,9 +4,9 @@ Documentation created for a practical university course on the topic of system a
 Topics covered:
 * Installing an operating system (manually resizing partitions etc.)
 * Setting up a firewall (nftables)
-* Network Configuration
-* Setting up a DNS Server (Bind9)
-* Setting up a DHCP Server
+* Network configuration
+* Setting up a DNS server (Bind9)
+* Setting up a DHCP server
 * Setting up a database (PostgreSQL)
 * Setting up a web server (Nginx & Apache)
 * Hosting an open source web service (Nextcloud)
